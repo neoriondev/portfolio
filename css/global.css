@@ -745,5 +745,7 @@ footer .socials a:hover {
 
 .thanks {
   text-align: center;
-  margin: 150px;
+  margin: auto;
+  padding: 100px;
+  
 }
